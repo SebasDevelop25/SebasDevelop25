@@ -67,8 +67,6 @@ Actualmente busco **práctica empresarial** para unirme a un equipo donde pueda 
 
 ## Estadísticas de GitHub
 
-## Estadísticas de GitHub
-
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SebasDevelop25&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estadísticas de GitHub"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDevelop25&layout=compact&hide_border=true&langs_count=6" alt="Lenguajes más usados"/>
