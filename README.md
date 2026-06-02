@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
+<h1 align="center">Hola, soy SebasDevelop25 👋</h1>
 
 <p align="center">
   Desarrollador Full Stack · Colombia 🇨🇴<br/>
@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/sebastian-david-ruiz-rinta-b49a2827a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://TU_PORTAFOLIO.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portafolio"/>
   </a>
-  <a href="mailto:TU_EMAIL@gmail.com">
+  <a href="mailto:sebasdavidruiz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -30,7 +30,7 @@ Actualmente busco **práctica empresarial** para unirme a un equipo donde pueda 
 - 🔭 Construyendo mi portafolio de proyectos full stack
 - 🌱 Aprendiendo sobre arquitectura de microservicios y CI/CD
 - 💬 Pregúntame sobre Node.js, APIs REST, o PostgreSQL
-- 📫 Escríbeme a **TU_EMAIL@gmail.com**
+- 📫 Escríbeme a **sebasdavidruiz@gmail.com**
 
 ---
 
@@ -68,12 +68,12 @@ Actualmente busco **práctica empresarial** para unirme a un equipo donde pueda 
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estadísticas de GitHub"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&langs_count=6" alt="Lenguajes más usados"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SebasDevelop25&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estadísticas de GitHub"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDevelop25&layout=compact&hide_border=true&langs_count=6" alt="Lenguajes más usados"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true" alt="Racha de contribuciones"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasDevelop25&hide_border=true" alt="Racha de contribuciones"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@ AWS / Cloud fundamentals        ███░░░░░░░  iniciando
 
 <p align="center">
   <i>Abierto a oportunidades de práctica empresarial · Colombia · 2025</i><br/>
-  <a href="https://linkedin.com/in/TU_USUARIO">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/sebastian-david-ruiz-rinta-b49a2827a/">LinkedIn</a> ·
   <a href="https://TU_PORTAFOLIO.dev">Portafolio</a> ·
-  <a href="mailto:TU_EMAIL@gmail.com">Email</a>
+  <a href="mailto:sebasdavidruiz@gmail.com">Email</a>
 </p>
