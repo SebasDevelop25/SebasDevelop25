@@ -68,13 +68,13 @@ Actualmente busco **práctica empresarial** para unirme a un equipo donde pueda 
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SebasDevelop25&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estadísticas de GitHub"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDevelop25&layout=compact&hide_border=true&langs_count=6" alt="Lenguajes más usados"/>
+  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api?username=SebasDevelop25&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=8b949e&ring_color=A855F7&count_private=true" />
+  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SebasDevelop25&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=8b949e&langs_count=6" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SebasDevelop25&theme=github-dark-blue&hide_border=true&background=0d1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=8b949e&dates=8b949e" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SebasDevelop25&hide_border=true" alt="Racha de contribuciones"/>
-</p>
 
 ---
 
